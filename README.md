@@ -1,11 +1,5 @@
-### Hi there 👋
-<
+Hello!! 
 - 🔭 I’m currently working on be a better person.
 - 🌱 I’m currently learning C language
-- 👯 I’m looking to collaborate on projects which are chasing goodness for all beings 
-- 🤔 I’m looking for collaborate
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on projects which are chasing goodness for all beings. 
+- 🤔 I’m looking for collaborate.
