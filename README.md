@@ -1,15 +1,20 @@
 Hello!! 
-- 🔭 I’m currently working on be a better person.
-- 🌱 I’m currently learning C language
-- 👯 I’m looking to collaborate on projects which are chasing goodness for all beings. 
+- 🔭 I’m currently working on beeing a better person.
+- 🌱 I’m currently learning C language at 42 School
+- 👯 I’m looking to collaborate on social projects. 
 - 🤔 I’m looking for collaborate.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaustoFaggion&show_icons=true&theme=white)](https://github.com/anuraghazra/github-readme-stats)
+##
+<div style="display: inline_block">
+  
+<img height=180em src="https://github-readme-stats.vercel.app/api?username=FaustoFaggion&show_icons=true&theme=dracula">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaustoFaggion&show_icons=true&theme=white&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaustoFaggion&show_icons=true&theme=dracula&layout=compact">
+</div>
 
-![](images/c_logo.svg)
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+##
+<div>
+<img width=60 src="./images/c_logo.svg">
+<img width=60 src="./images/bash_logo.png">
+<img width=60 src="./images/makefile_logo.png">
+</div>
