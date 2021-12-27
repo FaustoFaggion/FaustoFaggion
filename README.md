@@ -8,6 +8,8 @@ Hello!!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaustoFaggion&show_icons=true&theme=white&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](images/c_logo.svg)
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
