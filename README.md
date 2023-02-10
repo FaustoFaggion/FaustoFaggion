@@ -17,4 +17,5 @@ Hello!!
 <img width=60 src="./images/c_logo.svg">
 <img width=60 src="./images/bash_logo.png">
 <img width=60 src="./images/makefile_logo.png">
+<img width=60 src="./images/cpp_logo.png">
 </div>
